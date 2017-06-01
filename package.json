@@ -1,0 +1,9 @@
+{
+  "name": "vue2-foundation",
+  "version": "1.0.0",
+  "description": "Vue.js wrapper for foundation",
+  "main": "index.js",
+  "repository": "https://github.com/therufa/vue2-foundation",
+  "author": "therufa <therufa@gmail.com>",
+  "license": "MIT"
+}
